@@ -15,7 +15,7 @@ class WeatherApp extends StatelessWidget {
       theme: ThemeData.dark(
         useMaterial3: true,
       ),
-      home: const WeatherAppScreen(),
+      home: const WeatherAppScreen(), 
     );
   }
 }
